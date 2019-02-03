@@ -20,6 +20,6 @@ A movie can be added to a list directly from the movie page or via the edit list
 
 ## Built With
 
-* [PHP](http://www.php.net/) - The web framework used
+* [PHP](http://www.php.net/) 
 * With the help of [Codecourse](https://www.youtube.com/watch?v=OsCTzGASImQ&list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD)
 
